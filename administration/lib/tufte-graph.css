@@ -1,0 +1,51 @@
+.graph {
+ margin-left:150px;
+ margin-right:0 auto;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  clear: both;
+  font-family: georgia, serif;
+  font-size: 14px;
+}
+
+.graph .label {
+	
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.graph-header h3 {
+	margin-left:150px;
+  margin-bottom: 0px;
+}
+.graph-header {
+	margin-left:150px;
+  text-align: center;
+}
+.graph-header p {
+	margin-left:150px;
+  margin-top: 0px;
+}
+
+.graph .legend td, .graph .legend, .graph .legend tr {
+	margin-left:150px;
+  padding: 0px;
+  margin: 0px;
+  border-collapse:collapse;
+}
+
+.graph .legend {
+	margin-left:150px;
+  margin-left: 10px;
+}
+.graph .legend td {
+	margin-left:150px;
+  padding-right: 5px;
+}
+
+.graph .legend .color-box {
+	margin-left:150px;
+  width: 14px;
+  height: 10px;
+  overflow: hidden;
+}

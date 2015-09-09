@@ -1,0 +1,30 @@
+form label{
+	display: inline-block;
+	vertical-align: top;
+	width: 140px;
+	text-align: right;
+}
+
+.content{
+	width: 650px;
+	margin: 100px auto;
+	border: 1px solid;
+	border-radius: 15px;
+	padding: 50px;
+}
+
+input[type='text']{
+	width: 180px;
+}
+
+h1{
+	color: #104E8B;
+}
+
+#nav{
+	float: right;	
+}
+
+a{
+	text-decoration: none;
+}
